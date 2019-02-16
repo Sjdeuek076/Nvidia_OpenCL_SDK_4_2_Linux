@@ -1,0 +1,8 @@
+You may have to edit the line
+
+$path = ""
+
+to give the path to the file nrtosp.dat. For example, if this file is in
+/usr/local/numerical-recipes/, change the line to
+
+$path = "/usr/local/numerical-recipes/"

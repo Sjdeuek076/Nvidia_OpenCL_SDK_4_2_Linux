@@ -1,0 +1,37 @@
+beschb.cpp&NUSE1=7, NUSE2=8:NUSE1=5, NUSE2=5
+bessi.cpp&ACC=200:ACC=40
+bessj.cpp&ACC=160:ACC=40
+broydn.cpp&TOLF=1.0e-8, TOLX=EPS, STPMX=100.0, TOLMIN=1.0e-12:TOLF=1.0e-4, TOLX=EPS, STPMX=100.0, TOLMIN=1.0e-6
+dlinmin.cpp&TOL=2.0e-8:TOL=1.0e-4
+fdjac.cpp&EPS=1.0e-8:EPS=1.0e-4
+frprmn.cpp&EPS=1.0e-18:EPS=1.0e-10
+gauher.cpp&EPS=1.0e-14:EPS=4.0e-7
+gaujac.cpp&EPS=1.0e-14:EPS=1.0e-7
+gaulag.cpp&EPS=1.0e-14:EPS=1.0e-6
+gauleg.cpp&EPS=1.0e-14:EPS=1.0e-7
+hypgeo.cpp&EPS=1.0e-14:EPS=1.0e-6
+linmin.cpp&TOL=1.0e-8:TOL=1.0e-4
+newt.cpp&TOLF=1.0e-8,TOLMIN=1.0e-12:TOLF=1.0e-4,TOLMIN=1.0e-6
+probks.cpp&EPS1=1.0e-6,EPS2=1.0e-16:EPS1=0.001,EPS2=1.0e-8
+qromb.cpp&EPS=1.0e-10:EPS=1.0e-6
+qromo.cpp&EPS=3.0e-9:EPS=1.0e-6
+qroot.cpp&TINY=1.0e-14:TINY=1.0e-6
+qsimp.cpp&EPS=1.0e-10:EPS=1.0e-6
+qtrap.cpp&EPS=1.0e-10:EPS=1.0e-6
+ran1.cpp&EPS=3.0e-16:EPS=1.2e-7
+ran2.cpp&EPS=3.0e-16:EPS=1.2e-7
+rc.cpp&ERRTOL=0.0012:ERRTOL=0.04
+rd.cpp&ERRTOL=0.0015:ERRTOL=0.05
+rf.cpp&ERRTOL=0.0025:ERRTOL=0.08
+rj.cpp&ERRTOL=0.0015:ERRTOL=0.05
+sfroid.cpp&conv=1.0e-14:conv=5.0e-6
+shoot.cpp&EPS=1.0e-14:EPS=1.0e-6
+shootf.cpp&EPS=1.0e-14:EPS=1.0e-6
+simp2.cpp&EPS=1.0e-14:EPS=1.0e-6
+simplx.cpp&EPS=1.0e-14:EPS=1.0e-6
+sncndn.cpp&CA=1.0e-8:CA=.0003
+sor.cpp&EPS=1.0e-13:EPS=1.0e-4
+sphfpt.cpp&DXX=1.0e-8:DXX=1.0e-4
+sphoot.cpp&dx=1.0e-8:dx=1.0e-4
+svdfit.cpp&TOL=1.0e-13:TOL=1.0e-5
+zroots.cpp&EPS=1.0e-14:EPS=1.0e-6
